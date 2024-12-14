@@ -11,16 +11,7 @@ const ALLOWED_ORIGINS = [
 
 // RapidAPI Keys Configuration
 const RAPID_API_KEYS = [
-  '74fb0281e2msh9e94a0c8067c4ecp16f3aejsn2865f62a9782',
-  '73cfd1a64amshad381c27729fd25p1ee6a0jsna7d6ef38ea23',
-  '4f0a13a1ddmsh6d11828c53238ccp1baec0jsn7741b4066318',
-  '83dc1f5a32mshaaf1e9971cdc09dp166512jsnc7362a507e28',
-  'c05439ea12msh28cd28d2ca6082dp1f33b8jsn297b1b5195b7',
-  '44e40be7e0msha9d343b64467a26p100122jsn18c917cdd969',
-  '6e99c7303fmshe58df9173f6004dp13ae5ejsn692c0c89c75f',
-  'eee55a9833msh8f2dbd8e2b7970bp194fefjsne09ddc646e78',
-  '02c0aa3290msh2a0a42c5b01834ep15ec7cjsn11ee98e4e7b6'
-];
+ 
 
 // Initialize CORS middleware
 const cors = Cors({
