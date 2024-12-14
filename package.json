@@ -1,0 +1,33 @@
+{
+  "name": "video-api-transform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@distube/ytdl-core": "^4.15.1",
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "next": "latest",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7",
+    "react": "latest",
+    "react-dom": "latest",
+    "youtubei.js": "^11.0.1",
+    "yt-dlp-wrap": "^2.3.12"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/node": "22.9.0",
+    "@types/react": "18.3.12",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "typescript": "5.6.3"
+  }
+}
